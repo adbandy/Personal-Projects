@@ -1,4 +1,4 @@
-# Personal-Projects
+# Personal Projects
 
 1) [Answering Business Questions In SQL](https://github.com/adbandy/Personal-Projects/blob/main/Answering%20Business%20Questions%20In%20SQL.ipynb)
 This was an indepth project using SQL and its features to explore viable buisness options from the Chinook database. This contains 11 tables and is manipulated in SQL. 
