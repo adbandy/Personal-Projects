@@ -41,6 +41,6 @@ Need to update this
 	> Coding featured: **Python**, data cleaning, graphical plots, histograms, scatter matrix, barh graphs
 
 8) [Visualizing The Gender Gap In College Degrees](https://github.com/adbandy/Personal-Projects/blob/main/Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)
-In this visualisation project explores the differences between Men and Women in the database from The Department of Education Statistics containing the percentage of bachelor's degrees granted to women from 1970 to 2012.
+This visualisation project explores the differences between Men and Women in the database from The Department of Education Statistics containing the percentage of bachelor's degrees granted to women from 1970 to 2012.
 
 	> Coding featured: **Python**, graphical plots, subplots, a clean graphical look including cleaning spines and updating ticks
