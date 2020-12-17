@@ -34,3 +34,9 @@ Need to update this
 Need to update this
 
 	> Coding featured: **SQL**, queries and sub-queries
+	
+7) [Visualising Earnings Based On College Majors](https://github.com/adbandy/Personal-Projects/blob/main/Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
+ This project is a review of the database from the American Community Survey which documents the job outcomes of students who graduated between 2010 and 2012.
+ 
+	> Coding featured: **Python**, data cleaning, graphical plots, histograms, scatter matrix, barh graphs
+	
