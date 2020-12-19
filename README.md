@@ -3,7 +3,7 @@
 1) [Answering Business Questions In SQL](https://github.com/adbandy/Personal-Projects/blob/main/Answering%20Business%20Questions%20In%20SQL.ipynb)
 This was an indepth project using SQL and its features to explore viable buisness options from the Chinook database. This contains 11 tables and is manipulated in SQL. 
 
-	> Coding featured: **SQL**, queries, subqueries, create_table, joins and intercept, cast
+	> Coding featured: **SQL**, queries, subqueries, create_table, joins and except, cast
 	
 2) [Exploring Ebay Car Sales Data](https://github.com/adbandy/Personal-Projects/blob/main/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
 This was a project reviewing the Ebay Car sales from the German Ebay classifieds. 
