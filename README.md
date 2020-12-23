@@ -7,7 +7,7 @@ This was an indepth project using SQL and its features to explore viable buisnes
 2) [Clean And Analyze Employee Exit Surveys](https://github.com/adbandy/Personal-Projects/blob/main/Clean%20And%20Analyze%20Employee%20Exit%20Surveys.ipynb)
 This was a data cleaning project to review dissatisfaction in exit surveys in Australia. 
 
-	> Coding featured: **Python**, data cleaning, pandas, numpy, vectorization methods (apply(), map(), fillna(), dropna() melt(), concat() groupby, unstack, boolean filters, 
+	> Coding featured: **Python**, data cleaning, pandas, numpy, vectorization methods (apply(), map(), fillna(), dropna() melt(), concat() ) groupby, unstack, boolean filters, 
 
 2) [Exploring Ebay Car Sales Data](https://github.com/adbandy/Personal-Projects/blob/main/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)
 This was a project reviewing the Ebay Car sales from the German Ebay classifieds. 
