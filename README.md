@@ -19,10 +19,10 @@ A short project to work out the best times to post in order to get feedback comm
   
 	> Coding featured: **Python**, loops, datetime
 
-3) [NYC Schools](https://github.com/adbandy/Personal-Projects/blob/main/NYC%20Schools.ipynb)
-Need to update this.
+3) [SAT correlations in NYC Schools](https://github.com/adbandy/Personal-Projects/blob/main/Analyzing%20NYC%20High%20School%20Data.ipynb)
+A project that reviews the correlations in SATs in NYC schools with Race, Gender, Location, and Surveys from Teachers, Students and Parents.
   
-	> Coding featured: **Python**,
+	> Coding featured: **Python**, data cleaning, pandas, numpy, merge, maps (mpl_toolkits.basemap), graphical plots
 
 4) [Profitable App Profiles](https://github.com/adbandy/Personal-Projects/blob/main/Profitable%20App%20Profiles.ipynb)
 A project to help developers understand what types of Apps attract the most users to determine lucrative markets.
