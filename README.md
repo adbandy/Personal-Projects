@@ -30,12 +30,12 @@ A project to help developers understand what types of Apps attract the most user
 	> Coding featured: **Python**, data cleaning, frequency tables
 
 5) [Studying the Star Wars Survey](https://github.com/adbandy/Personal-Projects/blob/main/Studying%20the%20Star%20Wars%20Survey.ipynb)
-Need to update this
+A project reviewing a Star Wars Survey and uncovering trends.
 
 	> Coding featured: **Python**, data cleaning, frequency tables, graphical plots
 	
-6) [Analysing the CIA Factbook in SQL]
-Need to update this
+6) [Analysing the CIA Factbook in SQL](https://github.com/adbandy/Personal-Projects/blob/main/Analysing%20The%20CIA%20Factbook%20Using%20SQL.ipynb)
+The CIA factbook host interesting facts of countries around the world. In this project I used SQL to explore the dataset.
 
 	> Coding featured: **SQL**, queries and sub-queries
 	
