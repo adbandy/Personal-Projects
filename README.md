@@ -48,3 +48,9 @@ The CIA factbook host interesting facts of countries around the world. In this p
 This visualisation project explores the differences between Men and Women in the database from The Department of Education Statistics containing the percentage of bachelor's degrees granted to women from 1970 to 2012.
 
 	> Coding featured: **Python**, graphical plots, subplots, a clean graphical look including cleaning spines and updating ticks
+	
+9) [A Mobile App For Lottery Addiction](https://github.com/adbandy/Personal-Projects/blob/main/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
+This statistics project involves the creation of multiple functions to display in fun and informative ways the odds of winning big or small prizes, if previous winners match the ticket, likelyhood of repeats in given number of draws and converting number of tickets bought to probability.
+
+	> Coding featured: **Python**, pandas, Statistics including combinations and factorials
+
