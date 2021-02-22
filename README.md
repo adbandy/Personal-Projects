@@ -60,6 +60,7 @@ This introductary statistics project look aims to determine the best market and 
 	      
 12)  [A Mobile App For Lottery Addiction](https://github.com/adbandy/Personal-Projects/blob/main/Mobile%20App%20for%20Lottery%20Addiction.ipynb)
 This statistics project involves the creation of multiple functions to display in fun and informative ways the odds of winning big or small prizes, if previous winners match the ticket, likelyhood of repeats in given number of draws and converting number of tickets bought to probability.
+
 	> Coding featured: **Python**, pandas, Statistics including combinations and factorials    
 	     
 13) [Building a Spam Filter with Naive Bayes](https://github.com/adbandy/Personal-Projects/blob/main/Finding%20The%20Best%20Markets.ipynb)
