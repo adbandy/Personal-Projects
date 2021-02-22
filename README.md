@@ -54,3 +54,7 @@ This statistics project involves the creation of multiple functions to display i
 
 	> Coding featured: **Python**, pandas, Statistics including combinations and factorials
 
+10) [Building a Spam Filter with Naive Bayes](https://github.com/adbandy/Personal-Projects/blob/main/Spam%20Filter.ipynb)
+This statistics project involves the creation of a Spam Filter using Bayesian statisics. The model is created and test from an SMS database and gives a high accuracy
+
+	> Coding featured: **Python**, pandas, Statistics including Naive Bayes statistics
