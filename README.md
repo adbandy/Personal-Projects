@@ -54,7 +54,7 @@ This was an indepth project using SQL and its features to explore viable buisnes
 	> Coding featured: **SQL**, queries, subqueries, create_table, joins and except, cast         
 	
 11) [Finding The Best Markets For An Online Learing Platform](https://github.com/adbandy/Personal-Projects/blob/main/Finding%20The%20Best%20Markets.ipynb)
-This introductary statistics project look aims to determine the best market and finding anomalies using median, mode, mean comparisons
+This introductory statistics project look aims to determine the best market and finding anomalies using median, mode, mean comparisons
 
 	> Coding featured: **Python**, pandas, Statistics including mean, median and mode, Seaborn boxplots and histograms   
 	      
