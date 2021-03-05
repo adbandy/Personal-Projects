@@ -68,3 +68,8 @@ This statistics project involves the creation of a Spam Filter using Bayesian st
 
 	> Coding featured: **Python**, pandas, Statistics including Naive Bayes statistics            
 	
+14) [Predicting Car Prices With K-Nearest Neighbours Machine Learning](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Car%20Prices.ipynb)
+This machine learning project involved the creation of various KNN functions to achieve the most accurate model for prediciting car prices from 13 features.
+
+	> Coding featured: **Python**, Sklearn (Univariate KNN with fixed and variable neighbours, Multivariate KNN with fixed and variable neighbours, K-Fold validation variable fold and neighbours, pandas, seaborn.  
+	
