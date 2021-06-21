@@ -63,17 +63,22 @@ This statistics project involves the creation of multiple functions to display i
 
 	> Coding featured: **Python**, pandas, Statistics including factorials, permutations/ combinations.
 	
-13) [Building a Spam Filter with Naive Bayes](https://github.com/adbandy/Personal-Projects/blob/main/Spam%20Filter.ipynb)
+13) [Time Series Predictions on S&P Stock Market](https://github.com/adbandy/Personal-Projects/blob/main/Time%20Series%20Predictions%20on%20S%26P%20Stock%20Market.ipynb)
+This time series project involves an investigaton to see if and which historical metrics can be used for predicting future closing trading prices of the S&P500 using linear regression machine learning
+
+	> Coding featured: **Python**, Sklearn (linear regression, mean squared error) , time series statistics using .rolling()             
+	
+14) [Building a Spam Filter with Naive Bayes](https://github.com/adbandy/Personal-Projects/blob/main/Spam%20Filter.ipynb)
 This statistics project involves the creation of a Spam Filter using Bayesian statisics. The model is created and test from an SMS database and gives a high accuracy
 
 	> Coding featured: **Python**, pandas, Statistics including Naive Bayes statistics            
 	
-14) [Predicting Car Prices With K-Nearest Neighbours Machine Learning](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Car%20Prices.ipynb)
+15) [Predicting Car Prices With K-Nearest Neighbours Machine Learning](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Car%20Prices.ipynb)
 This machine learning project involved the creation of various KNN functions to achieve the most accurate model for prediciting car prices from 13 features.
 
 	> Coding featured: **Python**, Sklearn (Univariate KNN with fixed and variable neighbours, Multivariate KNN with fixed and variable neighbours, K-Fold validation variable fold and neighbours), pandas, seaborn.  
 	
-15) [Predicting House Prices With Linear Regression and K-Fold cross validation](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20House%20Sale%20Prices.ipynb)
+16) [Predicting House Prices With Linear Regression and K-Fold cross validation](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20House%20Sale%20Prices.ipynb)
 This machine learning project involved in-depth Feature Engineering. This included calculating most correlating features, coalescing multiple features to more meaningful information (such as Year Sold - Year Build = Years until sold) removing data 'leaks' (information about target in other features) and use of get_dummies method to transform categorical features to numerical.
 
 	> Coding featured: **Python**, Feature Engineering (including get_dummies, Data Cleaning, Sklearn (Linear Regression, K-Fold validation variable fold), numpy  
