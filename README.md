@@ -73,13 +73,18 @@ This statistics project involves the creation of a Spam Filter using Bayesian st
 
 	> Coding featured: **Python**, pandas, Statistics including Naive Bayes statistics            
 	
-15) [Predicting Car Prices With K-Nearest Neighbours Machine Learning](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Car%20Prices.ipynb)
+15) [Predicting Bike Rentals With Random Forest Regression](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Bike%20Rentals%20With%20Random%20Forest%20Regression.ipynb)
+This machine learning project reviews data from Washington DC bike rentals. 3million rentals across 2 years. Linear regression, decision trees and random forest methods are compared following feature engineering of the dataset.
+
+	> Coding featured: **Python**, Feature Engineering, Sklearn (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, mean_squared_error), numpy. 
+
+16) [Predicting Car Prices With K-Nearest Neighbours Machine Learning](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Car%20Prices.ipynb)
 This machine learning project involved the creation of various KNN functions to achieve the most accurate model for prediciting car prices from 13 features.
 
 	> Coding featured: **Python**, Sklearn (Univariate KNN with fixed and variable neighbours, Multivariate KNN with fixed and variable neighbours, K-Fold validation variable fold and neighbours), pandas, seaborn.  
-	
-16) [Predicting House Prices With Linear Regression and K-Fold cross validation](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20House%20Sale%20Prices.ipynb)
+
+17) [Predicting House Prices With Linear Regression and K-Fold cross validation](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20House%20Sale%20Prices.ipynb)
 This machine learning project involved in-depth Feature Engineering. This included calculating most correlating features, coalescing multiple features to more meaningful information (such as Year Sold - Year Build = Years until sold) removing data 'leaks' (information about target in other features) and use of get_dummies method to transform categorical features to numerical.
 
-	> Coding featured: **Python**, Feature Engineering (including get_dummies, Data Cleaning, Sklearn (Linear Regression, K-Fold validation variable fold), numpy  
+	> Coding featured: **Python**, Feature Engineering (including get_dummies), Data Cleaning, Sklearn (Linear Regression, K-Fold validation variable fold), numpy  
 
