@@ -71,24 +71,29 @@ This time series project involves an investigaton to see if and which historical
 14) [Building a Spam Filter with Naive Bayes](https://github.com/adbandy/Personal-Projects/blob/main/Spam%20Filter.ipynb)
 This statistics project involves the creation of a Spam Filter using Bayesian statisics. The model is created and test from an SMS database and gives a high accuracy
 
-	> Coding featured: **Python**, pandas, Statistics including Naive Bayes statistics            
+	> Coding featured: **Python**, pandas, Statistics including Naive Bayes statistics
 	
-15) [Predicting Bike Rentals With Random Forest Regression](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Bike%20Rentals%20With%20Random%20Forest%20Regression.ipynb)
+15) [Peer to Peer Credit Modelling](https://github.com/adbandy/Personal-Projects/blob/main/Credit%20Modelling%20(1).ipynb)
+This was a deep feature engineering project exploring credit risk from the lending club covering the whole machine learning workflow including class imbalance, redundant features, missing data, object to numerical conversion, get_dummies (one hot encoding) and various Classification machine learning
+
+	> Coding featured: **Python**, Sklearn (Classifiers: K-Nearest Neighbours, Random Forests, ADABoost, GaussainNB, QDA all with K-Fold validation), pandas, numpy
+	
+16) [Predicting Bike Rentals With Random Forest Regression](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Bike%20Rentals%20With%20Random%20Forest%20Regression.ipynb)
 This machine learning project reviews data from Washington DC bike rentals. 3million rentals across 2 years. Linear regression, decision trees and random forest methods are compared following feature engineering of the dataset.
 
 	> Coding featured: **Python**, Feature Engineering, Sklearn (LinearRegression, DecisionTreeRegressor, RandomForestRegressor, mean_squared_error), numpy. 
 
-16) [Building a Handwritten Digits Classifier with Deep Feedforward Neural Networks](https://github.com/adbandy/Personal-Projects/blob/main/Building%20a%20Handwritten%20Digits%20Classifier%20with%20Deep%20Feedforward%20Neural%20Networks.ipynb)
+17) [Building a Handwritten Digits Classifier with Deep Feedforward Neural Networks](https://github.com/adbandy/Personal-Projects/blob/main/Building%20a%20Handwritten%20Digits%20Classifier%20with%20Deep%20Feedforward%20Neural%20Networks.ipynb)
 This machine learning project involved the creation of Neural Networks with varying neurons and depths for predictions using a database of 1800 handwritten numbers. Accuracy was 96% using Neural Network compared to 
 
 	> Coding featured: **Python**, Sklearn (K-Nearest Neighbours Classifier, MLPClassifier (Neural Network),  K-Fold validation variable fold), pandas.  
 
-17) [Predicting Car Prices With K-Nearest Neighbours Machine Learning](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Car%20Prices.ipynb)
+18) [Predicting Car Prices With K-Nearest Neighbours Machine Learning](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Car%20Prices.ipynb)
 This machine learning project involved the creation of various KNN functions to achieve the most accurate model for prediciting car prices from 13 features.
 
 	> Coding featured: **Python**, Sklearn (Univariate KNN with fixed and variable neighbours, Multivariate KNN with fixed and variable neighbours, K-Fold validation variable fold and neighbours), pandas, seaborn.  
 
-18) [Predicting House Prices With Linear Regression and K-Fold cross validation](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20House%20Sale%20Prices.ipynb)
+19) [Predicting House Prices With Linear Regression and K-Fold cross validation](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20House%20Sale%20Prices.ipynb)
 This machine learning project involved in-depth Feature Engineering. This included calculating most correlating features, coalescing multiple features to more meaningful information (such as Year Sold - Year Build = Years until sold) removing data 'leaks' (information about target in other features) and use of get_dummies method to transform categorical features to numerical.
 
 	> Coding featured: **Python**, Feature Engineering (including get_dummies), Data Cleaning, Sklearn (Linear Regression, K-Fold validation variable fold), numpy  
