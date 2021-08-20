@@ -76,7 +76,7 @@ This statistics project involves the creation of a Spam Filter using Bayesian st
 15) [Peer to Peer Credit Modelling](https://github.com/adbandy/Personal-Projects/blob/main/Credit%20Modelling%20(1).ipynb)
 This was a deep feature engineering project exploring credit risk from the lending club covering the whole machine learning workflow including class imbalance, redundant features, missing data, object to numerical conversion, get_dummies (one hot encoding) and various Classification machine learning
 
-	> Coding featured: **Python**, Sklearn (Classifiers: K-Nearest Neighbours, Random Forests, ADABoost, GaussainNB, QDA all with K-Fold validation), pandas, numpy
+	> Coding featured: **Python**, Feature Engineering, Sklearn (Classifiers: K-Nearest Neighbours, Random Forests, ADABoost, GaussainNB, QDA all with K-Fold validation), pandas, numpy
 	
 16) [Predicting Bike Rentals With Random Forest Regression](https://github.com/adbandy/Personal-Projects/blob/main/Predicting%20Bike%20Rentals%20With%20Random%20Forest%20Regression.ipynb)
 This machine learning project reviews data from Washington DC bike rentals. 3million rentals across 2 years. Linear regression, decision trees and random forest methods are compared following feature engineering of the dataset.
