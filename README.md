@@ -98,3 +98,8 @@ This machine learning project involved in-depth Feature Engineering. This includ
 
 	> Coding featured: **Python**, Feature Engineering (including get_dummies), Data Cleaning, Sklearn (Linear Regression, K-Fold validation variable fold), numpy  
 
+20) [Predicting Survival On The Titanic - A Kaggle Competition](https://github.com/adbandy/Personal-Projects/blob/main/Titanic.ipynb)
+Using classification techniques (linear regression, KNN, and random forests) with preprocessing and model selection techniques (minmax scaling, RFECV, GridSearchCV) predictions were entered into Kaggle (of which the true results are never revealed).
+The accuracy was increased from a position at 40000th to 2300th, with a final accuracy of 78.5%.
+
+	> Coding featured: **Python**, Feature Engineering (including min_max scaling, binning, get_dummies RFECV, GridSearchCV), Data Cleaning, Sklearn (Cross validation,Logistical Regression, K-Fold validation variable fold, RandomForestClassifier), matplotlib, numpy.
